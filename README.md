@@ -4,6 +4,11 @@
 ![representation graphine de fichier xml](screenshoots/p1_pic1.png)
 ### REPRESENTATION HTML
 ![representation html de fichier xml](screenshoots/p1_pic2.png)
+## PARTIE 1: OPERATEUR
+### REPRESENTATION GRAPHIQUE
+![representation graphine de fichier xml](screenshoots/p2_pic1.png)
+### REPRESENTATION HTML
+![representation html de fichier xml](screenshoots/p2_pic2.png)
 ## PARTIE 4: METEO
 ### REPRESENTATION HTML
 ![representation html de fichier xml](screenshoots/p4_pic1.png)
